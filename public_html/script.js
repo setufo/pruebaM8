@@ -4,4 +4,5 @@
  * and open the template in the editor.
  */
 
+alert("Hola");
 alert("Bye");
